@@ -1,6 +1,6 @@
 ### 📛 Why is the Logo Blurred?
 
-The blurred logo in this portfolio belongs to an early design phase of the project. It features a "ravage gamer mascot" that was generated using an online app/tool during initial brainstorming. 
+The blurred logo in this portfolio was generated using an online app/tool during initial brainstorming. 
 
 However, since the source and license of this image are unclear, I cannot confirm whether it is free for commercial or public use. To avoid any potential copyright infringement, I have intentionally blurred the logo for this showcase.
 
